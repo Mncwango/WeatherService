@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRHkN9MymvC7luV2rJVOMBH700QUObgKWu6ggXzVFNW5X7BRDoM/EU0tZDQe0TvH/gsJ+lOWI/dWnQ5Y7uQMVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\celimpilom\\Documents\\WeatherService\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celimpilom\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
