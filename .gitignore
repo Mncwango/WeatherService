@@ -1,3 +1,6 @@
-.bin/**
-.vs/**
-.obj/**
+bin/
+vs/
+obj/
+.vs/
+ApplicationTests/bin/Debug/net6.0/CoverletSourceRootsMapping
+Assesment/obj/Debug/net6.0/Assesment.csproj.AssemblyReference.cache
